@@ -31,8 +31,6 @@ pip install sklearn
 
 ## Examples
 
-
-
 ---
 
 ## Usage
