@@ -33,6 +33,10 @@ pip install sklearn
 
 ## Examples
 
+![Raw Data Visualization](./Images/example_1.png)
+
+![Clustered Cryptocurrency Data](./Images/example_2.png)
+
 ---
 
 ## Usage
