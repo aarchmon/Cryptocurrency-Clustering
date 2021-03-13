@@ -1,18 +1,18 @@
 # Cryptocurrency Clustering
 
-![ETF](./Images/title_image.jpeg)
+![Cryptocurrency Clustering](./Images/title_image.jpeg)
 
 ---
 
 ## Technologies
 
-[numpy](https://numpy.org/) - Scientific computing module.
-
-[pandas](https://pandas.pydata.org/) - Data analysis module.
+[pandas](https://pandas.pydata.org/) - Data analysis and manipulation module.
 
 [hvplot](https://pypi.org/project/hvplot/) - Interactive plotting module.
 
-[sqlalchemy](https://www.sqlalchemy.org/) - Relational database module.
+[pathlib](https://docs.python.org/3/library/pathlib.html) - Object-oriented filesystem path module.
+
+[sklearn](https://sklearn.org/) - Machine learning module. 
 
 ---
 
@@ -20,9 +20,18 @@
 
 With your _Python 3.7+_ environment, run the following commands via CLI:
 
+```
+pip install pandas
+pip install hvplot
+pip install pathlib
+pip install sklearn
+```
+
 ---
 
 ## Examples
+
+
 
 ---
 
