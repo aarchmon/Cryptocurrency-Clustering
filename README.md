@@ -1,6 +1,6 @@
 # Cryptocurrency Clustering
 
-![ETF](./Images/title_image.jpg)
+![ETF](./Images/title_image.jpeg)
 
 ---
 
