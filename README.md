@@ -1,5 +1,7 @@
 # Cryptocurrency Clustering
 
+With the power of unsupervised learning, this module encompasses a cryptocurrency portfolio proposal based off of non-conventional factors taken into account regarding crypto data. 
+
 ![Cryptocurrency Clustering](./Images/title_image.jpeg)
 
 ---
